@@ -1,0 +1,12 @@
+body{
+    background-color: olive;
+    padding: 4em 0rem;
+}
+.container, .container-fluid {
+    background-color: beige;
+    padding: 2em;
+}
+
+.container {
+    margin-top: 4em;
+}
